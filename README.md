@@ -1,3 +1,4 @@
+### Instructions
 Please see the `requirements.txt` document that accompanies this submission for a collection of this project’s Python library dependencies. To initiate the algorithm, simply run the `main.py` module. This will run the only method in the module, `main()`. Please ensure that the parameter `in_` is indeed a valid path to the input image. Additionally, the directory for `out` must exist, but the file does not. I encourage experimentation with the remaining parameters to yield different results.
 
 - `n` specifies the dimensions of the N × N tiles to be extracted from the input image
