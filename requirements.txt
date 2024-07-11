@@ -1,0 +1,11 @@
+# WFC Module Dependencies
+
+# code checking
+python_ta
+
+# graphics and output rendering
+pillow>=10.2.0
+pygame==2.5.2
+
+# data storage and processing
+numpy>=1.26.3
